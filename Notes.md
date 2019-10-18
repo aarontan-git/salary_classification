@@ -11,6 +11,7 @@
 8. How many years of experience in current role
 9. What is your current yearly compensation
 10. Does your current employer incorporate ML methods into their business
+    - 1 column of different sentences ("i do not know", "we are exploring ML methods", "We recently started .."...etc.)
 11. Select an activity that makes up an import part of your role at work
     - 11 choices (11th one is others)
 12. What is the primary tool that you use at work to analyze data
