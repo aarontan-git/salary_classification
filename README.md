@@ -1,4 +1,4 @@
-# README
+# READ ME
 
 - This repo contains a jupyter notebook which details the development of a machine learning classification model for salary prediction.
 
